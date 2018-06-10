@@ -1,0 +1,8 @@
+echo "Pembelajaran Cuk"
+echo "Minta Tutornya Dunk"
+sleep 2
+pkg install git
+git clone https://github.com/pirmansx/mbf
+cd mbf/
+pip2 install mechanize
+python2 MBF.py
